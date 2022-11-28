@@ -47,9 +47,9 @@ var button_fill_color = "#DBF5FF"; // Button fill color when idle
 var button_fill_color_hover = "#EF1D4B"; // Button fill color on hover
 
 // Music settings
-var music_path = "sounds/music.mp3"; // Path to music
-var sound_in_path = "sounds/sounds-in.mp3"; // Path to sound-in FX
-var sound_out_path = "sounds/sounds-out.mp3"; // Path to sound-out FX
+var music_path = "https://www.myinstants.com/media/sounds/pocket-christmas-card-music.mp3"; // Path to music
+var sound_in_path = "https://www.myinstants.com/media/sounds/pocket-christmas-card-sounds-in.mp3"; // Path to sound-in FX
+var sound_out_path = "https://www.myinstants.com/media/sounds/pocket-christmas-card-sounds-out.mp3"; // Path to sound-out FX
 var music_loop = true; // Repeat music file (true, false)
 var mute_all = false; // Mute music and sounds (true, false)
 
